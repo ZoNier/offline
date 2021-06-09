@@ -1,1 +1,1 @@
-# offline
+# Offline Static HTML Assets
